@@ -32,7 +32,7 @@ A* is a smart pathfinding algorithm that finds the shortest route between two po
 2. Clone this repository to your machine.
 3. To execute the data structure demonstration, run:
    ```bash
-   python源代码文件名.py
+   python  python源代码文件名.py
 4. To execute the algorithm demonstration, run:
 Bash
 python python源代码文件名.py
