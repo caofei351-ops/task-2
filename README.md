@@ -26,23 +26,27 @@ A* is a smart pathfinding algorithm that finds the shortest route between two po
 这里是要求的python源代码文件: Python implementation and basic test cases for the A* Search Algorithm.
 
 ## User Guide 🚀
-*(Please follow these steps to run the Python code)* 
+(Please follow these steps to run the Python code)
 
 1. Ensure you have Python 3.x installed on your local environment.
 2. Clone this repository to your machine.
+
 3. To execute the data structure demonstration, run:
-   ```bash
-   python  python源代码文件名.py
+\`\`\`bash
+python 文件名.py
+\`\`\`
+
 4. To execute the algorithm demonstration, run:
-Bash
-python python源代码文件名.py
+\`\`\`bash
+python 文件名.py
+\`\`\`
 
 
 ## Project Demonstration 🎥
 [到时候放视频的链接]
  
 ## References 📚
-写我们的文献
+写用到的文献
 
 
  
