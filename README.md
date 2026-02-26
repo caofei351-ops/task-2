@@ -42,7 +42,7 @@ python python源代码文件名.py
 [到时候放视频的链接]
  
 ## References 📚
-写我们的文件
+写我们的文献
 
 
  
