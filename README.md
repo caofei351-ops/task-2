@@ -19,8 +19,8 @@ A* is a smart pathfinding algorithm that finds the shortest route between two po
 ---
 
 ## Repository Contents 📁
-这里是要求的python源代码文件: Python implementation and basic test cases for the Circular Buffer data structure.
-这里是要求的python源代码文件: Python implementation and basic test cases for the A* Search Algorithm.
+*这里是要求的python源代码文件: Python implementation and basic test cases for the Circular Buffer data structure.
+*这里是要求的python源代码文件: Python implementation and basic test cases for the A* Search Algorithm.
 
 ## User Guide 🚀
 
