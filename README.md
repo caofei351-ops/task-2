@@ -1,9 +1,6 @@
-## COMP2090SEF_course_project-task2
+ # COMP2090SEF Course Project - Task 2
 
-Group member🧔: Cao Fei(13755803),Pan HaoWen(13752390)
-# COMP2090SEF Course Project - Task 2
-
-**Group members:** Cao Fei (13755803), Pan HaoWen (13752390)
+**Group members:🧔** Cao Fei (13755803), Pan HaoWen (13752390)
 
 This repository contains the source code, user guide, and video demonstration for Task 2 of the COMP2090SEF course project. The objective is to self-study a new data structure and a new algorithm that are not covered in the course.
 
