@@ -32,12 +32,12 @@ A* is a smart pathfinding algorithm that finds the shortest route between two po
 
 3. To execute the data structure demonstration, run:
 ```bash
-python circular_buffer.py
+python 文件名.py
 ```
 
 4. To execute the algorithm demonstration, run:
 ```bash
-python a_star.py
+python 文件名.py
 ```
 
 ## Project Demonstration 🎥
